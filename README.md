@@ -24,3 +24,4 @@ This Python-based project illustrates the implementation of Slowly Changing Dime
 
 * Update Existing Records: Run the updates() function to update the 'end_date' of existing records identified in the transformation step using SQLAlchemy.
 
+#### Check Code File: [File Link](ETL-SCD2.ipynb)
